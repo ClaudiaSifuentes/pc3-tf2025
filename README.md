@@ -16,6 +16,7 @@ Construir una solución distribuida de análisis predictivo en seguridad ciudada
 🔗 https://datosabiertos.gob.pe/dataset/registro-nacional-de-denuncias-de-delitos-y-faltas-2017-instituto-nacional-de-estad%C3%ADstica-e
 
 ## 📂 Estructura del Proyecto
+```
 /backend
 └── api/ # API REST en Go
 └── cluster/ # Código concurrente del modelo ML
@@ -25,6 +26,7 @@ Construir una solución distribuida de análisis predictivo en seguridad ciudada
 └── etl/ # Limpieza y carga de datos
 /docs
 └── arquitectura.png # Diagrama de arquitectura
+```
 
 ## 🔧 GitFlow
 - `main`: versión estable

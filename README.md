@@ -29,5 +29,9 @@ Construir una solución distribuida de análisis predictivo en seguridad ciudada
 ```
 
 ## 🔧 GitFlow
-- `main`: versión estable
-- `develop`: integración de cambios
+- main        ← Producción
+  └── develop   ← Rama de integración
+        ├── feature/backend-api
+        ├── feature/ml-model
+        └── feature/frontend-spa
+

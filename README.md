@@ -37,3 +37,6 @@ Construir una solución distribuida para el análisis predictivo del rendimiento
         └── feature/frontend-spa
 
 ```
+
+## 🖼️ Arquitectura del proyecto
+![arquitectura](https://github.com/user-attachments/assets/f90357ff-6f05-449f-adef-fc9691965884)

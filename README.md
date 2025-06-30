@@ -1,7 +1,7 @@
-# pc3-tf2025
-# 🧠 Análisis Predictivo de Seguridad Ciudadana – Proyecto PC3 CC65
+# pc4-tf2025
+# 🧠 Análisis Predictivo del Rendimiento Académico – Proyecto PC4 CC65
 
-Este proyecto propone una solución distribuida y concurrente basada en programación en Go, Machine Learning y procesamiento de datos en tiempo real para la predicción de zonas con alta incidencia delictiva en Perú.
+Este proyecto propone una solución distribuida y concurrente basada en programación en Go, aprendizaje automático y procesamiento de datos en tiempo real para la predicción del promedio académico proyectado de estudiantes universitarios en el Perú.
 
 ## 👨‍💻 Integrantes
 - Luciano Valentino Achin Angeles – U202113624
@@ -9,11 +9,11 @@ Este proyecto propone una solución distribuida y concurrente basada en programa
 - Marcelo Roberto Poggi Díaz – U202213741
 
 ## 📌 Objetivo
-Construir una solución distribuida de análisis predictivo en seguridad ciudadana, utilizando datos abiertos de denuncias policiales, procesados mediante algoritmos de ML distribuidos, contenedores Docker y una arquitectura en capas.
+Construir una solución distribuida para el análisis predictivo del rendimiento académico, utilizando datos abiertos de matrícula universitaria, procesados mediante algoritmos de machine learning, contenedores Docker y una arquitectura por capas optimizada para concurrencia.
 
 ## 🗃 Dataset
-**Fuente:** INEI – Registro Nacional de Denuncias de Delitos y Faltas 2017  
-🔗 https://datosabiertos.gob.pe/dataset/registro-nacional-de-denuncias-de-delitos-y-faltas-2017-instituto-nacional-de-estad%C3%ADstica-e
+**Fuente:** Superintendencia Nacional de Educación Superior Universitaria (SUNEDU) – Lista de matriculados de pregrado 2025-I
+🔗 https://www.datosabiertos.gob.pe/dataset/lista-de-matriculados-de-pregrado-2025-1
 
 ## 📂 Estructura del Proyecto
 ```
